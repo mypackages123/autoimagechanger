@@ -1,0 +1,35 @@
+{
+  "name": "@webwithsam/autoimagechanger",
+  "version": "1.0.2",
+  "description": "a lightweight react component for automatic change the image at your configurable intervals or sheduled time in milsec . easily add the array of image and main route path to the array folder ",
+  "main": "index.js",
+  "type": "module",
+  "exports": "./index.js",
+  "homepage": "https://github.com/webwithsam",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mypackages123/autoimagechange.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "image-rotator",
+    "image-switcher",
+    "timed-interval",
+    "slidershow",
+    "image-slider",
+    "scheduled-image"
+  ],
+  "author": "sam busuguli",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  },
+  "peerdependencies": {
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  }
+}
