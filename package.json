@@ -8,7 +8,7 @@
   "homepage": "https://github.com/webwithsam",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mypackages123/autoimagechange.git"
+    "url": "https://github.com/mypackages123/autoimagechanger.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
