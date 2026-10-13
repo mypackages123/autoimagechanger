@@ -1,4 +1,4 @@
-# @webwithssam/auto-image-cycle
+# @webwithsam/autoimagechanger
 A lightweight React component for automatically changing images at configurable intervals or specified times.
 
 
@@ -13,7 +13,7 @@ A lightweight React component for automatically changing images at configurable 
 ## Installation
 
 ```bash
-npm install @webwithssam/auto-image-cycle
+npm install @webwithsam/autoimagechanger
 ```
 
 ## Usage
@@ -21,11 +21,11 @@ npm install @webwithssam/auto-image-cycle
 Explain how to import and use your package.
 
 ```js
-import yourFunction from "auto-image-cycle";
+import yourFunction from "@webwithsam/autoimagechanger";
 ```
 ```js
 ##example
-import myimage from "auto-image-cycle"
+import myimage from "@webwithsam/autoimagechanger"
 const Myimage = myimage();
 // from react component
 <div style={{
@@ -55,7 +55,7 @@ Explain the parameters accepted by your function.
 
 ```js
 // example with parameter
-import myimage from "auto-image-cycle"
+import myimage from "@webwithsam/autoimagechanger"
 const Myimage = myimage({
     Time:2000, // use  the same spelling Time to set time 
     Mainpath:"/your-folder-path", // use the same spelling in declaring the path
